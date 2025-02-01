@@ -3,7 +3,7 @@
 .venv
 venv/
 env/
-
+myenv/
 
 
 # Компилированные Python файлы
